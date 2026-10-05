@@ -60,3 +60,6 @@ univer-information-system/
 # univer-information-system
 KazNU Univer студенттік ақпараттық жүйесін модельдеу жобасы
 
+## Project status
+
+The initial project structure has been created.
