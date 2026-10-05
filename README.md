@@ -1,3 +1,4 @@
+
 # KazNU Univer ақпараттық жүйесі
 
 ## Жоба туралы
@@ -56,3 +57,6 @@ univer-information-system/
 ## Автор
 
 Бектас Інжу
+# univer-information-system
+KazNU Univer студенттік ақпараттық жүйесін модельдеу жобасы
+
